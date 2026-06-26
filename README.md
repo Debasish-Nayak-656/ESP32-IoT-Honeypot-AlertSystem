@@ -225,7 +225,7 @@ MIT License — free for educational and personal use.
 <div align="center">
 
 **Built by Debasish Nayak**  
-CSE Final Year · Cuttack, Odisha, India  
+Cuttack, Odisha, India  
 [GitHub](https://github.com/Debasish-Nayak-656) · Targeting: SOC Analyst · Security Analyst · Detection Engineering
 
 </div>
