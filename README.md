@@ -18,7 +18,7 @@
 
 ## Overview
 
-This final-year CSE project demonstrates core cybersecurity concepts through a fully functional IoT honeypot built on embedded hardware:
+This cyber project demonstrates core cybersecurity concepts through a fully functional IoT honeypot built on embedded hardware:
 
 - **ESP32** creates a Wi-Fi access point named `SmartCamera-IoT` and hosts a convincing fake IP camera web interface
 - **Threat Engine** logs every visitor, tracks per-IP behavior, and calculates a threat score
