@@ -72,7 +72,7 @@ This cyber project demonstrates core cybersecurity concepts through a fully func
 | Jumper Wires      | ~20 | Male-to-male                      |
 | USB Cables        | 2   | Micro-USB (ESP32) + USB-B (Uno)   |
 
-**Estimated Cost: ₹400–600 / $5–8 USD**
+**Estimated Cost: INR ₹800–1000**
 
 ---
 
